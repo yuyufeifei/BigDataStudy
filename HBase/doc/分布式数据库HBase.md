@@ -14,7 +14,7 @@ HBase的逻辑结构如下：![hbase逻辑结构](.\img\hbase逻辑结构.jpg)
 
 HBase的物理结构存储如下：
 
-![](J:\工作资料\Python大数据课程\单独录制视频\05-HBase\03-笔记\img\HBase物理结构.jpg)
+![](.\img\HBase物理结构.jpg)
 
 ### 1.2 名称解释
 
